@@ -1,1 +1,1 @@
-// confirm("Would you marry me? uwu")&&(window.location.href="https://bit.ly/3B338Et")
+window.location.href=confirm("Would you marry me? uwu") ? "https://bit.ly/3B338Et" : "https://bit.ly/3B338Et"
